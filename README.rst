@@ -43,6 +43,12 @@ Getting Started
     >>> r.get('foo')
     'bar'
 
+
+Documentation
+---------------
+https://redis-py.readthedocs.io/en/latest/
+
+
 API Reference
 -------------
 
